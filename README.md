@@ -1,6 +1,8 @@
 # maybank_statement_parser
 A simple tool that convert PDF Maybank statements and exports clean, spreadsheet-ready CSVs.
 
+(CS50’s Introduction to Programming with Python - Final Project)
+
 ### Introduction
 - [**Situation**] : Maybank, a local south east asia bank does not provide options to download in any other format beside PDF format, hindering users from easily importing data into analytical tools like Excel or Google Sheets.
 - [**Task**] : Create a robust Python utility designed to parse Maybank statements in PDF form that automatically read, extract, and transform to a readable and standardized format.
